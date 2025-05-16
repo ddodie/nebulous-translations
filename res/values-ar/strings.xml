@@ -10,7 +10,7 @@
     <string name="DEFAULTS">"الإفتراضي"</string>
     <string name="WEEKLY">"الأسبوعي"</string>
     <string name="DAILY">"اليومي"</string>
-    <string name="Server_">"السيرفر"</string>
+    <string name="Server_">"الخادم"</string>
     <string name="Game_Mode_">"نوع اللعبة"</string>
     <string name="Show_Names">"إظهار الأسماء"</string>
     <string name="Show_Avatars">"إظهار الصور"</string>
@@ -48,13 +48,13 @@
     <string name="JOIN">"إنضم"</string>
 
 
-    <string name="Lobby_Name">"أسم السيرفر"</string>
+    <string name="Lobby_Name">"أسم الخادم"</string>
     <string name="Not_found_">"لم يتم العثور عليه."</string>
 
     <string name="Hidden">"مخفي"</string>
 
 
-    <string name="SERVER">"سيرفر"</string>
+    <string name="SERVER">"خادم"</string>
     <string name="Joining_game_in_">"الانضمام للعبة "</string>
     <string name="Game_Full">"اللعبه ممتلئة"</string>
     <string name="US_East">"شرق الولايات المتحدة"</string>
@@ -143,7 +143,7 @@
     <string name="SURVIVAL">"النجاة"</string>
 
 
-    <string name="Clan_XP">"نقاط خبرة العشيرة"</string>
+    <string name="Clan_XP">"نقاط خبرة القبيلة"</string>
 
 
     <string name="Dot_Nibbler">"قاضم النقاط"</string>
