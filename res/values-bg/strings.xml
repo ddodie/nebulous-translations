@@ -1087,9 +1087,9 @@
     <string name="INITIATE">INITIATE</string>
     <string name="x3_Clan_XP_Perm">3x Clan XP Permanent!</string>
     <string name="x2_Clan_XP_Perm">2x Clan XP Permanent!</string>
-    <string name="Japan">Japan</string>
-    <string name="South_Korea">South Korea</string>
-    <string name="Asia">Asia</string>
+    <string name="Japan">Япония</string>
+    <string name="South_Korea">Южна Корея</string>
+    <string name="Asia">Азия</string>
     <string name="SET_PRIVACY">SET PRIVACY</string>
     <string name="ANIMATION">ANIMATION</string>
     <string name="Color_Cycle">Color Cycle</string>
@@ -1110,12 +1110,12 @@
     <string name="GET_PLASMA">GET PLASMA</string>
     <string name="ASTEROIDS">ASTEROIDS</string>
     <string name="CHRISTMAS">CHRISTMAS</string>
-    <string name="Reason">Reason</string>
-    <string name="PUBLIC">PUBLIC</string>
-    <string name="PRIVATE">PRIVATE</string>
-    <string name="Joined">Joined</string>
-    <string name="Requests">Requests</string>
-    <string name="Invites">Invites</string>
+    <string name="Reason">причина</string>
+    <string name="PUBLIC">обществен</string>
+    <string name="PRIVATE">частен</string>
+    <string name="Joined">присъединил се</string>
+    <string name="Requests">заявки</string>
+    <string name="Invites">покани</string>
     <string name="Show_Spectator_Count">Show Spectator Count</string>
     <string name="TRY_IT_">TRY IT!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">You need to buy a pack to use this.</string>
@@ -1140,7 +1140,7 @@
 
     <string name="Enable__Multiskin">"Enable\nMultiskin"</string>
     <string name="MULTISKIN">MULTISKIN</string>
-    <string name="DISABLED">DISABLED</string>
+    <string name="DISABLED">инвалид</string>
 
     <string name="Refund__Multiskin">Refund\nMultiskin</string>
     <string name="Invalid_Clan_ID_">Invalid clan ID.</string>
@@ -1174,7 +1174,7 @@
     <string name="Names_Below_Blobs">Names Below Blobs</string>
     <string name="Name_Scale_">"Name Scale:"</string>
     <string name="Button_3D">Button 3D</string>
-    <string name="Hide_Button_">Hide Button?</string>
+    <string name="Hide_Button_">бутон за скриване?</string>
     <string name="Show_Boost_Button">Show Boost Button</string>
     <string name="Spectate_Killer_On_Death">Spectate Killer On Death</string>
     <string name="Rainbow_Holes">Rainbow Holes</string>
@@ -1285,8 +1285,8 @@ Commands:
     <string name="Complete_campaign_mission_">Complete campaign mission</string>
     <string name="Specify_Reason_">Specify Reason:</string>
     <string name="FREE_FOR_ALL">FREE FOR ALL</string>
-    <string name="SPECIAL">SPECIAL</string>
-    <string name="FREE">FREE</string>
+    <string name="SPECIAL">специален</string>
+    <string name="FREE">безплатно</string>
     <string name="x5_Clan_XP_1_Day">5X CLAN XP 1 DAY</string>
     <string name="x5_Clan_XP_7_days">5X CLAN XP 7 DAYS</string>
     <string name="x5_Clan_XP_Perm">5X CLAN XP PERMANENT!</string>
@@ -1296,7 +1296,7 @@ Commands:
     <string name="x5_XP_Permanent">5X XP PERMANENT</string>
     <string name="CAMPAIGN_2">CAMPAIGN 2</string>
     <string name="XP_5x">XP 5x</string>
-    <string name="India">India</string>
+    <string name="India">Индия</string>
     <string name="Tutorial">Tutorial</string>
     <string name="TYCOON">TYCOON</string>
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
